@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Jace Jessup</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="www.linkedin.com/in/jace-jessup-4390a3263" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/JaceTheAce16" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,13 +19,39 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+As an aspiring entrepreneur and passionate business student at Brigham Young University, I thrive at the intersection of innovation, strategy, and impact. My journey is fueled by a deep curiosity for how great products shape lives and markets, and a systematic drive to bring ideas to execution. I have invested myself in understanding the nuances of product management—finding inspiration in both classroom theory and hands-on projects that push me to think from a user’s perspective.
+
+My education at BYU, alongside a rigorous pursuit of an entrepreneurship minor, has exposed me to the fundamentals of business strategy, organizational behavior, and technical problem-solving. These experiences have given me a foundation in analytics, cross-functional teamwork, and lean experimentation. Building my portfolio and managing various student ventures, I've learned the importance of empathy, clarity, and iteration in product development.
+
+Beyond the classroom, I've worked in roles ranging from sales and coaching to customer relationship management, each strengthening my communication, leadership, and practical business acumen. I am drawn to consulting because it allows me to tackle complex, ambiguous challenges for clients and organizations, often with a product-driven lens.
+
+I am always eager to collaborate, learn, and adapt. Whether developing a digital solution, contributing to a startup, or analyzing business models, my goal is to build value by channeling creative energy, analytic rigor, and genuine empathy for people’s needs.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Economics**, Brigham Young University (2026)
+- **Relevant Coursework**: 
+ACC 200: Principles of Accounting
+
+GSCM 201: Intro to Global Supply Chain Management
+
+GSCM 211: Intro to GSCM International
+
+M COM 320: Management Communication
+
+MKTG 201: Marketing Management
+
+ECON 210: Career Prep
+
+STRAT 490R: Strategy & Prototyping
+
+ENT 302: Legal Issues in Entrepreneurship
+
+ENT 382: Technology Entrepreneurship Lecture Series
+- **Academic Achievements**: 
+National Honors Society
+
+Management Consulting Association BYU
 
 ### Experience
 
