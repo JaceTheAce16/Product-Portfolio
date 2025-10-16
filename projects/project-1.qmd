@@ -51,9 +51,13 @@ Tools Used:
 ## Product Requirements Document
 
 Project Name: Pixel Soccer
+
 Version: 1.0
+
 Date: [Sept. 12, 2025]
+
 Owner: [Jace Jessup]
+
 1. Purpose
 
 Pixel Soccer is a simple, fun, web-based 8-bit soccer game that allows users to play quick matches either solo (vs AI) or with friends (multiplayer). The game emphasizes nostalgia, simplicity, and fast gameplay, making it ideal for short play sessions on desktop or mobile browsers.
