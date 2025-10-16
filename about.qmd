@@ -31,6 +31,7 @@ I am always eager to collaborate, learn, and adapt. Whether developing a digital
 
 - **Economics**, Brigham Young University (2026)
 - **Relevant Coursework**: 
+
 ACC 200: Principles of Accounting
 
 GSCM 201: Intro to Global Supply Chain Management
@@ -48,7 +49,8 @@ STRAT 490R: Strategy & Prototyping
 ENT 302: Legal Issues in Entrepreneurship
 
 ENT 382: Technology Entrepreneurship Lecture Series
-- **Academic Achievements**: 
+- **Academic Achievements**:
+
 National Honors Society
 
 Management Consulting Association BYU
