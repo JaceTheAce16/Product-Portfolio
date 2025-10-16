@@ -1,6 +1,6 @@
 ---
 title: "Pixel Soccer"
-date: "2024-09-15"
+date: "2025-09-15"
 categories: [GitHub, Claude Code]
 ---
 
@@ -10,8 +10,7 @@ This project involved using Claude Code to write the code to needed to deveop an
 
 The primary purpose of this app is to:
 
-- ....
-- ....
+- Play a fun, simplified game of soccer
 
 ## Live Product Demo
 
@@ -51,4 +50,132 @@ Tools Used:
 
 ## Product Requirements Document
 
-Paste in the PRD that you submitted to Claude Code
+Project Name: Pixel Soccer
+Version: 1.0
+Date: [Sept. 12, 2025]
+Owner: [Jace Jessup]
+1. Purpose
+
+Pixel Soccer is a simple, fun, web-based 8-bit soccer game that allows users to play quick matches either solo (vs AI) or with friends (multiplayer). The game emphasizes nostalgia, simplicity, and fast gameplay, making it ideal for short play sessions on desktop or mobile browsers.
+
+2. Goals & Objectives
+
+Goal: Provide an accessible, easy-to-play soccer game with a retro 8-bit aesthetic.
+
+Objectives:
+
+Deliver a smooth, responsive web experience.
+
+Support both single-player and multiplayer modes.
+
+Keep matches short (2–5 minutes) for casual fun.
+
+Allow players to easily start games without downloading anything.
+
+3. Target Users
+
+Casual gamers looking for quick entertainment.
+
+Soccer fans who enjoy arcade-style sports games.
+
+Retro gamers who like 8-bit pixel art and classic soundtracks.
+
+Social players who want to challenge friends online.
+
+4. Key Features
+Core Gameplay
+
+2D Top-Down Pixel Soccer Field (8-bit aesthetic).
+
+Teams of 3–5 Players (configurable).
+
+Simple Controls:
+
+Arrow keys / WASD → Move
+
+Space / Left Click → Kick
+
+Shift → Sprint (limited stamina bar)
+
+Physics: Basic ball movement, bounces, and player collisions.
+
+Win Condition: Highest score when timer runs out.
+
+Game Modes
+
+Quick Match: Play against AI bots with adjustable difficulty.
+
+Local Multiplayer: Two players on the same keyboard or controller setup.
+
+Online Multiplayer (Stretch Goal): Create or join rooms to play with friends.
+
+Visuals & Sound
+
+8-bit Pixel Art: Retro-style characters, ball, and field.
+
+Sound Effects: Kicking, scoring, crowd cheers.
+
+Chiptune Music: Simple upbeat background track.
+
+UI & UX
+
+Main Menu: Play, Settings, Instructions.
+
+Scoreboard: Displays goals, timer, and team colors.
+
+Pause Menu: Resume, Restart, Exit to Main Menu.
+
+Settings: Adjust sound/music volume, game length, difficulty.
+
+5. Non-Functional Requirements
+
+Platform: Web (desktop first, mobile-friendly).
+
+Performance: Smooth at 60 FPS on modern browsers.
+
+Accessibility: Keyboard-first controls, minimal text, easy navigation.
+
+Load Time: <3 seconds on standard broadband connection.
+
+6. User Flow
+
+Landing Page: User sees title screen → clicks "Play."
+
+Game Setup: Choose mode (Quick Match, Local Multiplayer).
+
+Gameplay: Match plays for set time (2–5 minutes).
+
+End Screen: Shows winner, score, and buttons for "Play Again" or "Exit."
+
+7. Technical Requirements
+
+Front-End: HTML5, CSS, JavaScript (Canvas or WebGL).
+
+Game Engine: Phaser.js or custom lightweight engine.
+
+Multiplayer (Optional): WebSockets for real-time play.
+
+Hosting: Any static web host (e.g., Vercel, Netlify).
+
+8. Success Metrics
+
+Engagement: Average session length ≥ 3 minutes.
+
+Performance: <2% reports of lag or dropped frames.
+
+Retention: ≥ 20% of users play at least twice.
+
+9. Risks & Mitigations
+Risk	Mitigation
+Multiplayer latency issues	Start with single-player and local multiplayer, optimize netcode before online play
+Performance on mobile	Use lightweight assets and compression
+Low user engagement	Add achievements, unlockable team skins, and shareable score links
+10. Future Enhancements
+
+Online matchmaking & leaderboards
+
+Character customization (jersey colors, names)
+
+Power-ups (speed boost, bigger ball, etc.)
+
+Tournament mode
